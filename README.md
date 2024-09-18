@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-Currently i am a Student and studying finance in Bangladesh University of professionals 
+👋 Hi there! I'm currently a finance student at Bangladesh University of Professionals with a deep passion for AI, economics, finance, and accounting. I love exploring how artificial intelligence can be applied to solve complex financial problems and improve decision-making. My journey includes delving into data science, machine learning, and financial modeling to build innovative solutions.
 
+I'm constantly learning and eager to apply my skills in both finance and AI to contribute to cutting-edge projects. Let's connect and explore the future of finance and technology together!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Habibur Rahman Sajeeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Habibur Rahman) 
