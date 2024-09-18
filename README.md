@@ -31,8 +31,11 @@ I'm constantly learning and eager to apply my skills in both finance and AI to c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HR-HABIBUR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote From The Wisest
+
+![Jim Simons](https://preview.redd.it/d6aieg5oog301.jpg?width=960&crop=smart&auto=webp&s=7895de0d54078b25f154a9101ebb8a804d220282)
+
+“Do something new; don’t run with the pack. Surround yourself with the smartest people you can find. Be guided by beauty. Don’t give up easily. Hope for good luck!” – Jim Simons
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HR-HABIBUR&icon=6&color=6)](https://visitcount.itsvg.in)
